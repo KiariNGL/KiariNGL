@@ -19,6 +19,6 @@ From The United States of America comes the worst developer ever
 
 #### My Socials
 
-[<img alt="YouTube - KiariNGL" src="https://img.shields.io/badge/-YouTube-FF0000?style=social&logo=youtube&logoColor=FF0000" />](https://youtube.com/@FRKiariNGL)
+[<img alt="YouTube - KiariNGL" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />](https://youtube.com/@FRKiariNGL)
 [<img alt="Instagram - KiariNGL" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />](https://instagram.com/KairiNGL)
 [<img alt="X/Twitter - KiariNGL" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" />](https://x.com/KairiNGL)

@@ -13,12 +13,12 @@ From The United States of America comes the worst developer ever
 ##### Programming Languages
 
 [<img alt="Lua" src="https://img.shields.io/badge/-Lua-01007F?style=flat-square&logo=Lua&logoColor=white" />](https://www.lua.org/)
-[<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=white" />]([https://www.lua.org/](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" />](https://go.dev/)
 
 #### My Socials
 
 [<img alt="YouTube - KiariNGL" src="https://img.shields.io/badge/-YouTube-FF0000?style=social&logo=youtube&logoColor=FF0000" />](https://youtube.com/@FRKiariNGL)
-[<img alt="Instagram - KiariNGL" src="https://img.shields.io/badge/-Odysee-EE186F?style=social&logo=odysee&logoColor=EE186F" />](https://instagram.com/KairiNGL)
-[<img alt="Twitter - KiariNGL" src="https://img.shields.io/badge/-Odysee-EE186F?style=social&logo=odysee&logoColor=EE186F" />](https://x.com/KairiNGL)
+[<img alt="Instagram - KiariNGL" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />](https://instagram.com/KairiNGL)
+[<img alt="X/Twitter - KiariNGL" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" />](https://x.com/KairiNGL)

@@ -3,7 +3,7 @@
 From The United States of America comes the worst developer ever
 
 - 👯 OS of choice: Windows 11.
-- ⚡ Most loved programming languages: Lua, C#, Go.
+- ⚡ Most loved programming languages: Lua, Go, C#.
 
 ##### Languages
 

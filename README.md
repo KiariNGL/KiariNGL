@@ -17,6 +17,9 @@ From The United States of America comes the worst developer ever
 [<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" />](https://go.dev/)
 
+#### Game Engines/Frameworks
+[<img alt="Godot Engine" src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" />](https://godotengine.org/)
+
 #### My Socials
 
 [<img alt="YouTube - KiariNGL" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />](https://youtube.com/@FRKiariNGL)

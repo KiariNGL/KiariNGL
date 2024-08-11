@@ -2,8 +2,7 @@
 
 From The United States of America comes the worst developer ever
 
-- 🔭 Currently scripting Vlang, JavaScript and Flutter courses.
-- 👯 OS of choice: <img alt="Lua" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
+- 👯 OS of choice: Windows 11.
 - ⚡ Most loved programming languages: Lua, C#, Go.
 
 ##### Languages

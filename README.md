@@ -3,7 +3,9 @@
 From The United States of America comes the worst developer ever
 
 - 👯 OS of choice: [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#).
-- ⚡ Most loved programming languages: C++, C#, Go.
+- ⚡ Most loved programming languages: [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+                                        [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+                                        [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#).
 
 ##### Languages
 
